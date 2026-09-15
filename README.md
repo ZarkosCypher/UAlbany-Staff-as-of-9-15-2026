@@ -1,6 +1,7 @@
-<img width="85" height="62" alt="image" src="https://github.com/user-attachments/assets/1d7ba9f7-42ab-49ba-8953-d71d626bfae4" /># UAlbany-Staff-as-of-9-15-2026
+UAlbany-Staff-as-of-9-15-2026
 All UAlbany staff as of 9/15/2026, my teacher wanted me to do some OSINT assignment. So if your doing it too, your welcome.  I saved you a few hours of work...  UAlbany has an API your able to communicate with not sure if its supposed to be exposed or not?? I removed all staff PII, so its a list of just their names. 
 The list includes:
+<ul>
 Academic Adv, Off Gen Studies
 Academic Advisor
 Academic Advisor, CEHC
@@ -1274,3 +1275,4 @@ Work Study Director
 Writing Lecturer
 X-Ray Crystallographer Tech
 Youth Empowerment Specilist
+</ul>
